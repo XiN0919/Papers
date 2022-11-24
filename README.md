@@ -1,7 +1,7 @@
 # Transfer Learning Paper Record
 
 ## [Domain Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Adaptation)
-* Unsupervised Domain Adaptation
+* Self-Training
 * Source-Free
 * Self-supervised
 * Black Box
