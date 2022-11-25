@@ -4,6 +4,7 @@
 * Unsupervised Domain Adaptation
 * Self-Training
 * Source-Free
+* Open-Set
 * Self-supervised
 * Black Box
 * Others
