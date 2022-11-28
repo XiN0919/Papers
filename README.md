@@ -19,8 +19,8 @@
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 2.[Semantic-Aware Domain Generalized Segmentation](https://ieeexplore.ieee.org/document/9879987/) | CVPR2022 |  |  |  |
+| 1.[Domain Generalization With MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp) | ICLR2021 |  |  |  |
 
 ## [Test Time Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Test%20Time%20Adaptation)
 
