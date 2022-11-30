@@ -9,16 +9,16 @@
 
 ## [Domain Generalization Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Generalization)
 
-| Paper Number | Paper Name|  Published  | Motivation | Learn | Remark |
-| ---|--- | :---: | --- | --- | --- |
+| Number | Paper Name|  Published | Motivation | Learn | Remark |
+| :-: | :---: | :---: | :--- | :--- | :--- |
 |   | |  |  |  |  |
 | 2 | [Semantic-Aware Domain Generalized Segmentation](https://ieeexplore.ieee.org/document/9879987/) | CVPR 2022 |  |  |  |
 | 1 | [Domain Generalization With MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp) | ICLR 2021 |  |  |  |
 
 ## [Test Time Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Test%20Time%20Adaptation)
 
-| Paper Number | Title|  Published | Motivation | Learn | Remark |
-| :---:| :---: | :---: | :---: | :---: | :---: |
+| Number | Paper Name|  Published | Motivation | Learn | Remark |
+| :-: | :---: | :---: | :--- | :--- | :--- |
 | 6|[Contrastive Test-Time Adaptation](https://ieeexplore.ieee.org/document/9880363/) |CVPR 2022 |  |  |  |
 | 5|[Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a.html) |ICML 2022|  |  |  |
 | 4|[TENT:Fully Test-Time Adaptation By Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) |ICLR 2021|  |  |  |
