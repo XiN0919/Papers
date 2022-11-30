@@ -4,6 +4,9 @@
 
 | Number | Paper Name|  Published | Motivation | Learn | Remark |
 | :-: | :---: | :---: | :--- | :--- | :--- |
+| 4 | [Adversarial Discriminative Domain Adaptation](https://ieeexplore.ieee.org/document/8099799) | CVPR 2017 | ADDA：思想巧妙，有点构造辅助任务的意思 | 文章部分表述可借鉴；混淆矩阵 |  |
+| 3 | [Deep Transfer Learning with Joint Adaptation Networks](http://proceedings.mlr.press/v70/long17a.html) | ICML 2017 | JMMD距离 | 公式写作 |  |
+| 2 | [Domain-Adversarial Training of Neural Networks](https://www.jmlr.org/papers/volume17/15-239/15-239.pdf) | JMLR 2016 | 域判别器+梯度反转层 | 期刊论文-期刊写作可借鉴 |  |
 | 1 | [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) | ICML 2015 | DAN：1）特征提取器前几层frozen； 2）特征提取器后几层微调；3）6-8层计算MK-MMD拉近源域目标域距离--针对特定任务 | 特征可视化（只画目标域特征）；A-Distance距离 |  |
 
 
