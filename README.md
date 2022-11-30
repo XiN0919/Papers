@@ -2,7 +2,7 @@
 
 ## [Domain Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Adaptation)
 
-| Number | Paper Name|  Published | Motivation | Learn |
+| Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
 | 4 | [Adversarial Discriminative Domain Adaptation](https://ieeexplore.ieee.org/document/8099799) | CVPR<br>2017 | ADDA：思想巧妙，有点构造辅助任务的意思 | 文章部分表述可借鉴；混淆矩阵 |
 | 3 | [Deep Transfer Learning with Joint Adaptation Networks](http://proceedings.mlr.press/v70/long17a.html) | ICML<br>2017 | JMMD距离 | 公式写作 |
@@ -12,7 +12,7 @@
 
 ## [Domain Generalization Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Generalization)
 
-| Number | Paper Name|  Published | Motivation | Learn |
+| Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
 |   | |  |  |  |  |
 | 2 | [Semantic-Aware Domain Generalized Segmentation](https://ieeexplore.ieee.org/document/9879987/) | CVPR<br>2022 | 主要是了解该论文的白化模块 | 论文写作非常好 | 
@@ -20,7 +20,7 @@
 
 ## [Test Time Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Test%20Time%20Adaptation)
 
-| Number | Paper Name|  Published | Motivation | Learn |
+| Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
 | 6|[Contrastive Test-Time Adaptation](https://ieeexplore.ieee.org/document/9880363/) |CVPR<br>2022 |  |  |
 | 5|[Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a.html) |ICML<br>2022|  |  |
