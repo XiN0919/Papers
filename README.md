@@ -3,7 +3,7 @@
 ## [Domain Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Adaptation)
 
 | Number | Paper Name|  Published | Motivation | Learn | Remark |
-| :-: | :---: | :---: | :--- | :--- | :--- |
+| :-: | :---: | :---: | :-- | :--- | :--- |
 | 4 | [Adversarial Discriminative Domain Adaptation](https://ieeexplore.ieee.org/document/8099799) | CVPR 2017 | ADDA：思想巧妙，有点构造辅助任务的意思 | 文章部分表述可借鉴；混淆矩阵 |  |
 | 3 | [Deep Transfer Learning with Joint Adaptation Networks](http://proceedings.mlr.press/v70/long17a.html) | ICML 2017 | JMMD距离 | 公式写作 |  |
 | 2 | [Domain-Adversarial Training of Neural Networks](https://www.jmlr.org/papers/volume17/15-239/15-239.pdf) | JMLR 2016 | 域判别器+梯度反转层 | 期刊论文-期刊写作可借鉴 |  |
@@ -13,7 +13,7 @@
 ## [Domain Generalization Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Generalization)
 
 | Number | Paper Name|  Published | Motivation | Learn | Remark |
-| :-: | :---: | :---: | :--- | :--- | :--- |
+| :-: | :---: | :---: | :-- | :--- | :--- |
 |   | |  |  |  |  |
 | 2 | [Semantic-Aware Domain Generalized Segmentation](https://ieeexplore.ieee.org/document/9879987/) | CVPR 2022 | 主要是了解该论文的白化模块 | 论文写作非常好 |  |
 | 1 | [Domain Generalization With MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp) | ICLR 2021 | 思想简单巧妙，提出利用Instance Normalization + 样本mu、sig进行风格混合（类似于一种加噪声） | 模块即插即用，方便 |  |
@@ -21,7 +21,7 @@
 ## [Test Time Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Test%20Time%20Adaptation)
 
 | Number | Paper Name|  Published | Motivation | Learn | Remark |
-| :-: | :---: | :---: | :--- | :--- | :--- |
+| :-: | :---: | :---: | :-- | :--- | :--- |
 | 6|[Contrastive Test-Time Adaptation](https://ieeexplore.ieee.org/document/9880363/) |CVPR 2022 |  |  |  |
 | 5|[Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a.html) |ICML 2022|  |  |  |
 | 4|[TENT:Fully Test-Time Adaptation By Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) |ICLR 2021|  |  |  |
