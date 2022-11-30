@@ -2,14 +2,14 @@
 
 ## [Domain Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Adaptation)
 
-| Paper Number | Paper Name|  Published &nbsp | Motivation | Learn | Remark |
+| Paper Number | Paper Name|  Published&nbsp; | Motivation | Learn | Remark |
 | --- | --- | :---: | --- | --- | --- |
 | 1 | [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) | ICML 2015 |  |  |  |
 
 
 ## [Domain Generalization Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Generalization)
 
-| Paper Number | Paper Name|  Published &nbsp;  | Motivation | Learn | Remark |
+| Paper Number | Paper Name|  Published&nbsp;  | Motivation | Learn | Remark |
 | ---|--- | :---: | --- | --- | --- |
 |   | |  |  |  |  |
 | 2 | [Semantic-Aware Domain Generalized Segmentation](https://ieeexplore.ieee.org/document/9879987/) | CVPR 2022 |  |  |  |
@@ -17,8 +17,8 @@
 
 ## [Test Time Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Test%20Time%20Adaptation)
 
-| Paper Number | Title|  Published &nbsp | Motivation | Learn | Remark |
-| :---:| :--- | :---: | :--- | --- | --- |
+| Paper Number | Title|  Published&nbsp; | Motivation | Learn | Remark |
+| :---:| :---: | :---: | :---: | :---: | :---: |
 | 6|[Contrastive Test-Time Adaptation](https://ieeexplore.ieee.org/document/9880363/) | CVPR 2022 |  |  |  |
 | 5|[Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a.html) | ICML 2022 |  |  |  |
 | 4|[TENT:Fully Test-Time Adaptation By Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) | ICLR 2021 |  |  |  |
