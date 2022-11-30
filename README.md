@@ -2,8 +2,8 @@
 
 ## [Domain Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Adaptation)
 
-| Paper Number | Paper Name|  Published | Motivation | Learn | Remark |
-| :--: | :---: | :---: | :--- | :--- | :--- |
+| Number | Paper Name|  Published | Motivation | Learn | Remark |
+| :-: | :---: | :---: | :--- | :--- | :--- |
 | 1 | [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) | ICML 2015 | DAN：1）特征提取器前几层frozen； 2）特征提取器后几层微调；3）6-8层计算MK-MMD拉近源域目标域距离--针对特定任务 | 特征可视化（只画目标域特征）；A-Distance距离 |  |
 
 
