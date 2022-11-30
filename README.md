@@ -9,7 +9,7 @@
 
 ## [Domain Generalization Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Domain%20Generalization)
 
-| Paper Number | Paper Name|  Published &nbsp  | Motivation | Learn | Remark |
+| Paper Number | Paper Name|  Published &nbsp;  | Motivation | Learn | Remark |
 | ---|--- | :---: | --- | --- | --- |
 |   | |  |  |  |  |
 | 2 | [Semantic-Aware Domain Generalized Segmentation](https://ieeexplore.ieee.org/document/9879987/) | CVPR 2022 |  |  |  |
