@@ -4,7 +4,7 @@
 
 | Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
-| 6 | [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content_cvpr_2018/html/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.html) | CVPR<br>2018 | MCD：固定Genarator，最大化距离，调整分类器决策边界；固定Classifier,最小化距离进行适配 | 试验部分多了Semantic Segmentation |
+| 6 | [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content_cvpr_2018/html/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.html) | CVPR<br>2018 | MCD：固定Genarator，最大化距离，调整分类器决策边界；固定Classifier,最小化距离进行适配 | 实验部分多了Semantic Segmentation |
 | 5 | [Conditional Adversarial Domain Adaptation](https://proceedings.neurips.cc/paper/2018/hash/ab88b15733f543179858600245108dd8-Abstract.html) | NIPS<br>2018 | CDAN： |  |
 | 4 | [Adversarial Discriminative Domain Adaptation](https://ieeexplore.ieee.org/document/8099799) | CVPR<br>2017 | ADDA：思想巧妙，有点构造辅助任务的意思 | 文章部分表述可借鉴；混淆矩阵 |
 | 3 | [Deep Transfer Learning with Joint Adaptation Networks](http://proceedings.mlr.press/v70/long17a.html) | ICML<br>2017 | JMMD距离 | 公式写作 |
