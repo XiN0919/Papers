@@ -4,7 +4,7 @@
 
 | Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
-| 7 | [Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9009009) | ICCV<br>2019 |  |  |
+| 7 | [Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9009009) | ICCV<br>2019<br>(最佳提名) | 通过VisDA2017源模型上源域和目标域样本的特征可视化推导了两个假设：错位特征范数假设与较小特征范数假设。在每次迭代中，将特征范数自适应应用于任务特定的特征。而对应两个假设，作者提出两种新的域适应方法：对于AFN的硬变换与逐步变换。硬变换在实验中证明之前的假设错误，而在逐步变换SAFN中，当前的特征范数要接近于上一次迭代的特征二范数+r，以渐进的方式学习具有更大范数的特定任务特征 | 文章偏理论方向，代码实现较为容易 |
 | 6 | [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content_cvpr_2018/html/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.html) | CVPR<br>2018 | MCD：固定Genarator，最大化距离，调整分类器决策边界；固定Classifier,最小化距离进行适配 | 实验部分多了Semantic Segmentation |
 | 5 | [Conditional Adversarial Domain Adaptation](https://proceedings.neurips.cc/paper/2018/hash/ab88b15733f543179858600245108dd8-Abstract.html) | NIPS<br>2018 | CDAN：条件域对抗网络设计有两种新的调节策略:多线性条件，捕获特征表示和分类器预测之间的互协方差以提高可区分性；熵条件，控制分类器预测的不确定性以保证可传递性 |  |
 | 4 | [Adversarial Discriminative Domain Adaptation](https://ieeexplore.ieee.org/document/8099799) | CVPR<br>2017 | ADDA：思想巧妙，有点构造辅助任务的意思 | 文章部分表述可借鉴；混淆矩阵 |
