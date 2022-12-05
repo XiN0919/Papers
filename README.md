@@ -4,6 +4,8 @@
 
 | Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
+| 10 | [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://proceedings.neurips.cc/paper/2020/hash/06964dce9addb1c5cb5d6e3d9838f733-Abstract.html) | NIPS<br>2020 |  |  |
+| 9 | [Minimum Class Confusion for Versatile Domain Adaptation](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_28) | ECCV<br>2020 |  |  |
 | 8 | [Bridging Theory and Algorithm for Domain Adaptation](https://arxiv.org/pdf/1904.05801.pdf) | ICML<br>2019 |  |  |
 | 7 | [Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9009009) | ICCV<br>2019<br>最佳提名 | 通过VisDA2017源模型上源域和目标域样本的特征可视化推导了两个假设：错位特征范数假设与较小特征范数假设。在每次迭代中，将特征范数自适应应用于任务特定的特征。而对应两个假设，作者提出两种新的域适应方法：对于AFN的硬变换与逐步变换。硬变换在实验中证明之前的假设错误，而在逐步变换SAFN中，当前的特征范数要接近于上一次迭代的特征二范数+r，以渐进的方式学习具有更大范数的特定任务特征 | 偏理论方向，代码实现容易 |
 | 6 | [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content_cvpr_2018/html/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.html) | CVPR<br>2018 | MCD：固定Genarator，最大化距离，调整分类器决策边界；固定Classifier,最小化距离进行适配 | 实验部分多了Semantic Segmentation |
