@@ -4,7 +4,7 @@
 
 | Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
-| 11 | [Align and Adapt: A Two-stage Adaptation Framework for Unsupervised Domain Adaptation]([https://proceedings.neurips.cc/paper/2020/hash/06964dce9addb1c5cb5d6e3d9838f733-Abstract.html](https://dl.acm.org/doi/abs/10.1145/3503161.3547973)) | MM<br>2022 | 二阶段对比学习方法 | 与之前想法有冲突，不过从整体观、思路方面不同 |
+| 11 | [Align and Adapt: A Two-stage Adaptation Framework for Unsupervised Domain Adaptation](https://dl.acm.org/doi/abs/10.1145/3503161.3547973) | MM<br>2022 | 二阶段对比学习方法 | 与之前想法有冲突，不过从整体观、思路方面不同 |
 | 10 | [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://proceedings.neurips.cc/paper/2020/hash/06964dce9addb1c5cb5d6e3d9838f733-Abstract.html) | NIPS<br>2020 | 利用数据强弱增强的预测一致性来约束伪标签 | 一种伪标签的好方法 |
 | 9 | [Minimum Class Confusion for Versatile Domain Adaptation](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_28) | ECCV<br>2020 |  |  |
 | 8 | [Bridging Theory and Algorithm for Domain Adaptation](https://arxiv.org/pdf/1904.05801.pdf) | ICML<br>2019 |  |  |
