@@ -30,7 +30,7 @@
 | Number | Paper Name|  Published | Motivation | Inspired |
 | :-: | :---: | :---: | :-- | :--- |
 | 6|[Contrastive Test-Time Adaptation](https://ieeexplore.ieee.org/document/9880363/) |CVPR<br>2022 |  |  |
-| 5|[Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a.html) |ICML<br>2022|  |  |
+| 5|[Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a.html) |ICML<br>2022| 防止网络参数变化过大以及主动样本更新网络参数 | 主动样本挑选 |
 | 4|[TENT:Fully Test-Time Adaptation By Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) |ICLR<br>2021| 熵最小化的方式在Test-Time时更新模型 |  |
 | 3|[Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization](https://proceedings.neurips.cc/paper/2021/hash/1415fe9fea0fa1e45dddcff5682239a0-Abstract.html) | NIPS<br>2021 |  |  |
 | 2|[TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) | NIPS<br>2021 |  |  |
