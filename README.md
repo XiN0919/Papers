@@ -23,7 +23,7 @@
 | :-: | :---: | :---: | :-- | :--- |
 |   | |  |  |  |  |
 | 2 | [Semantic-Aware Domain Generalized Segmentation](https://ieeexplore.ieee.org/document/9879987/) | CVPR<br>2022 | 主要是了解该论文的白化模块 | 论文写作非常好 | 
-| 1 | [Domain Generalization With MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp) | ICLR<br>2021 | 提出利用Instance Normalization + 样本mu、sig进行风格混合（类似于一种加噪声） | 模块即插即用，方便 |
+| 1 | [Domain Generalization With MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp) | ICLR<br>2021 | 提出利用Instance Normalization + 样本mu、sig进行风格混合（类似于一种加噪声） | 模块即插即用，方便(尝试了层次化、白化等，效果不好) |
 
 ## [Test Time Adaptation Paper](https://github.com/XiN0919/Transfer-Learning-Paper/tree/main/Test%20Time%20Adaptation)
 
