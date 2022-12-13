@@ -33,5 +33,5 @@
 | 5|[Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a.html) |ICML<br>2022| 防止网络参数变化过大以及主动样本更新网络参数 | 主动样本挑选 |
 | 4|[TENT:Fully Test-Time Adaptation By Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) |ICLR<br>2021| 熵最小化的方式在Test-Time时更新模型 |   熵最小化的应用 |
 | 3|[Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization](https://proceedings.neurips.cc/paper/2021/hash/1415fe9fea0fa1e45dddcff5682239a0-Abstract.html) | NIPS<br>2021 |  |  |
-| 2|[TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) | NIPS<br>2021 |  |  |
+| 2|[TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) | NIPS<br>2021 | 相较于TTT，多保留了源域的mu、sig，在TTA阶段计算源域和目标域mu、sig距离 | 源域的统计量信息 |
 | 1|[Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](http://proceedings.mlr.press/v119/sun20b.html) | ICML<br>2020 | 提出了TTA问题，仅在目标域测试时调整模型（辅助任务） | 新的研究方向（已研究比较完善了） |
