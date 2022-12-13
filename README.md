@@ -6,4 +6,5 @@ I'm a PhD student working on Transfer Learning, including DA, DG, etc.
 I also pay attention to research trends in other fields, including:
 * MultiModal
 * Semi-Supervised Learning
+* Out-of-Distribution
 * 
