@@ -1,6 +1,7 @@
 # Semi-Supervised Paper Record
 | Number | Paper Name|  Published | Motivation |
 | :-: | :---: | :---: | :-- |
+| 6 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) | CVPR<br>2022 | MAE：BERT的CV版本，通过mask patch重构像素的方式进行预训练，下游任务可能只需要encoder即可 |
 | 5 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | ICLR<br>2021 | VIT：Vision Transformer图片输入打成patch，每个patch相当于一个单词，Transformer架构不变，打通了NLP和CV鸿沟 |
 | 4 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | NAACL<br>2019 | BERT：双向Transformer，自监督填词训练，开启了预训练的时代 |
 | 3 | [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | NIPS<br>2017 | Transformer：Self-Attention替换之前的CNN、RNN，优缺点及具体见纸质论文记录 |
