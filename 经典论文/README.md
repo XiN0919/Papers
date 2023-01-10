@@ -1,6 +1,7 @@
 # Semi-Supervised Paper Record
 | Number | Paper Name|  Published | Motivation |
 | :-: | :---: | :---: | :-- |
+| 7 | []() | <br> |  |
 | 6 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) | CVPR<br>2022 | MAE：BERT的CV版本，通过mask patch重构像素的方式进行预训练，下游任务可能只需要encoder即可 |
 | 5 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | ICLR<br>2021 | VIT：Vision Transformer图片输入打成patch，每个patch相当于一个单词，Transformer架构不变，打通了NLP和CV鸿沟 |
 | 4 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | NAACL<br>2019 | BERT：双向Transformer，自监督填词训练，开启了预训练的时代 |
